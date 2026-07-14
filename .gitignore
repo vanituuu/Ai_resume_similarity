@@ -1,0 +1,5 @@
+df.joblib
+job_vectors.joblib
+jobs_dataset_with_features.csv
+.ipynb_checkpoints/
+.vscode/

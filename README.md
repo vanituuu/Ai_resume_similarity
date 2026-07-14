@@ -6,7 +6,7 @@ Built with **Python**, **Scikit-learn**, **Streamlit**, and **PDF Resume Parsing
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Upload Resume in PDF format
 - Extract text from the uploaded resume
@@ -118,7 +118,7 @@ Example:
 ---
 
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Skill Gap Analysis
 - Missing Skill Recommendation
